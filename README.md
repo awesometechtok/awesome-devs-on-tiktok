@@ -32,6 +32,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 
 Name | Channel Descriptoin | TikTok Profile | Social Link
 -----|-------------- | ------------- | -------
+Andrew | Lame attempts at developer humor | [@creativedrewy](https://www.tiktok.com/@creativedrewy) | [Twitter](https://twitter.com/creativedrewy)
 
 [⬆ Back to top](#contents)
 
