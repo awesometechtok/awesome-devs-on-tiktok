@@ -8,7 +8,11 @@ There are tons of people making great developer and coding-oriented content on T
 
 **_NOTE_**: This list is only meant for accounts that are actively creating developer-oriented content. If you're a developer who's on TikTok but you aren't actively creating content, why not get started? It'd be great to have you on this list!
 
-Want to add yourself to the list? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
+**Want to add yourself to the list? Here are the steps:**
+- [Fork this repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+- Add your account & social info the master list
+- [Make a Pull Request from your fork back here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
+- It will get reviewed and when approved, be part of the master list!
 
 *Please read the [contribution guidelines](#contributing) before contributing.*
 
