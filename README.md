@@ -10,7 +10,7 @@ There are tons of people making great developer and coding-oriented content on T
 
 **Want to add yourself to the list? Here are the steps:**
 - [Fork this repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
-- Add your account & social info the master list
+- Add your account & social info to the master list
 - [Make a Pull Request from your fork back here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 - It will get reviewed and when approved, be part of the master list!
 
@@ -41,6 +41,8 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Jon   | Life, Coding, and more random stuff   | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
+
+<!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
 
 [⬆ Back to top](#contents)
 
