@@ -38,7 +38,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | ------ | ------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
 | Andrew | Lame attempts at developer humor     | [@creativedrewy](https://www.tiktok.com/@creativedrewy)     | [Twitter](https://twitter.com/creativedrewy)  |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
-| Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://link.mattupham.com/twitter) |
+| Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
 
 [⬆ Back to top](#contents)
 
