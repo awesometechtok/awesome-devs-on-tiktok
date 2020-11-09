@@ -37,8 +37,9 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Name   | Channel Descriptoin                  | TikTok Profile                                              | Social Link                                   |
 | ------ | ------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
 | Andrew | Lame attempts at developer humor     | [@creativedrewy](https://www.tiktok.com/@creativedrewy)     | [Twitter](https://twitter.com/creativedrewy)  |
+|Ava     | Keyboards ⌨, coding 💻, & tea 🍵    | [@mztriz](https://www.tiktok.com/@mztriz) |[Insta](https://www.instagram.com/mztriz) |
 | Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
-| Jon   | Life, Coding, and more random stuff   | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
+| Jon   | Life, Coding, and more random stuff | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
 
