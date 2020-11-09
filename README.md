@@ -4,7 +4,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1920px-TikTok_logo.svg.png" align="right" width="240">](https://www.tiktok.com/)
 
-There are tons of people making great developer and coding-oriented content on TikTok; let's bring everyone together on one master list! Go follow, like, and interact with everyone on this list - let's build an amazing developer community together. And most importantly, add yourself to the list!
+There are tons of people making great developer and coding-oriented content on TikTok; let's bring everyone together on one master list! Go follow, like, and interact with everyone on this list - let's build an amazing developer community together. **And most importantly, add yourself to the list!**
 
 **_NOTE_**: This list is only meant for accounts that are actively creating developer-oriented content. If you're a developer who's on TikTok but you aren't actively creating content, why not get started? It'd be great to have you on this list!
 
