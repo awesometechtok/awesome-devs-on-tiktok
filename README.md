@@ -4,7 +4,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1920px-TikTok_logo.svg.png" align="right" width="240">](https://www.tiktok.com/)
 
-There are tons of people making great developer and coding-oriented content on TikTok; let's bring everyone together on one master list! Go follow, like, and interact with everyone on this list - let's build an amazing developer community together!
+There are tons of people making great developer and coding-oriented content on TikTok; let's bring everyone together on one master list! Go follow, like, and interact with everyone on this list - let's build an amazing developer community together. And most importantly, add yourself to the list!
 
 **_NOTE_**: This list is only meant for accounts that are actively creating developer-oriented content. If you're a developer who's on TikTok but you aren't actively creating content, why not get started? It'd be great to have you on this list!
 
@@ -37,11 +37,11 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Name   | Channel Descriptoin                  | TikTok Profile                                              | Social Link                                   |
 | ------ | ------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
 | Andrew | Lame attempts at developer humor     | [@creativedrewy](https://www.tiktok.com/@creativedrewy)     | [Twitter](https://twitter.com/creativedrewy)  |
-|Ava     | Keyboards ⌨, coding 💻, & tea 🍵    | [@mztriz](https://www.tiktok.com/@mztriz) |[Insta](https://www.instagram.com/mztriz) |
 | Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
 | Henry   | Making Cool Stuff     | [@henryouang](https://www.tiktok.com/@henryouang)| [Insta](https://www.instagram.com/henryo84/) |
 | Jon   | Life, Coding, and more random stuff | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
+|Ava     | Keyboards ⌨, coding 💻, & tea 🍵    | [@mztriz](https://www.tiktok.com/@mztriz) |[Insta](https://www.instagram.com/mztriz) |
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
 
 <!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
