@@ -36,6 +36,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 
 | Name   | Channel Descriptoin                  | TikTok Profile                                              | Social Link                                   |
 | ------ | ------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
+| Anastasia   | Quantum computing and coding!  | [@amarchenkova](https://www.tiktok.com/@amarchenkova)             | [Insta](https://www.instagram.com/amarchenkova)     |
 | Ava     | Keyboards ⌨, coding 💻, & tea 🍵  | [@avabarron](https://www.tiktok.com/@avabarron)             | [Insta](https://www.instagram.com/mztriz)     |
 | Andrew | Putting the fun in function     | [@creativedrewy](https://www.tiktok.com/@creativedrewy)     | [Twitter](https://twitter.com/creativedrewy)  |
 | Graham | Coding humor / learning to code / exploring tech | [@grahambillington](https://www.tiktok.com/@grahambillington) | [Twitter](https://twitter.com/GBillington7) |
