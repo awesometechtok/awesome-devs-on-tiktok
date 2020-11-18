@@ -41,6 +41,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Graham | Coding humor / learning to code / exploring tech | [@grahambillington](https://www.tiktok.com/@grahambillington) | [Twitter](https://twitter.com/GBillington7) |
 | Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
 | Henry   | Making Cool Stuff     | [@henryouang](https://www.tiktok.com/@henryouang)| [Insta](https://www.instagram.com/henryo84/) |
+| John   | Coding. Advice. And memes. | [@johncodes](https://www.tiktok.com/@johncodes) | [Twitter](https://twitter.com/johncodezzz) |
 | Jon   | Life, Coding, and more random stuff | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
 | Emily   | Comedy, women in tech issues, tech career advice    | [@shmemmmy](https://www.tiktok.com/@shmemmmy)| [Twitter](https://twitter.com/EmilyKager) |
