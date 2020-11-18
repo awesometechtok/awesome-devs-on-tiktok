@@ -43,6 +43,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Henry   | Making Cool Stuff     | [@henryouang](https://www.tiktok.com/@henryouang)| [Insta](https://www.instagram.com/henryo84/) |
 | Jon   | Life, Coding, and more random stuff | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
+| Phil   | Dev comedy, programming memes, sports | [@thephilstubbs](https://www.tiktok.com/@thephilstubbs)| [Twitter](https://twitter.com/iamPhilStubbs) |
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
 
 <!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
