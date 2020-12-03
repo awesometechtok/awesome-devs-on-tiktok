@@ -39,6 +39,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Anastasia   | Quantum computing and coding!  | [@amarchenkova](https://www.tiktok.com/@amarchenkova)             | [Insta](https://www.instagram.com/amarchenkova)     |
 | Ava     | Keyboards ⌨, coding 💻, & tea 🍵  | [@avabarron](https://www.tiktok.com/@avabarron)             | [Insta](https://www.instagram.com/mztriz)     |
 | Andrew | Putting the fun in function     | [@creativedrewy](https://www.tiktok.com/@creativedrewy)     | [Twitter](https://twitter.com/creativedrewy)  |
+| Dilmer   | Extended Reality and coding !     | [@dilmerval](https://www.tiktok.com/@dilmerval)| [Twitter](https://www.twitter.com/dilmerv/) |
 | Graham | Coding humor / learning to code / exploring tech | [@grahambillington](https://www.tiktok.com/@grahambillington) | [Twitter](https://twitter.com/GBillington7) |
 | Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
 | Henry   | Making Cool Stuff     | [@henryouang](https://www.tiktok.com/@henryouang)| [Insta](https://www.instagram.com/henryo84/) |
