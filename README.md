@@ -51,6 +51,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Emily   | Comedy, women in tech issues, tech career advice    | [@shmemmmy](https://www.tiktok.com/@shmemmmy)| [Twitter](https://twitter.com/EmilyKager) |
 | Phil   | Dev comedy, programming memes, sports | [@thephilstubbs](https://www.tiktok.com/@thephilstubbs)| [Twitter](https://twitter.com/iamPhilStubbs) |
 | Shopify Devs | A community for all tech entrepreneurs & app developers | [@shopifydevs](https://www.tiktok.com/@shopifydevs) | [Twitter](https://twitter.com/ShopifyDevs) | 
+| Krystal | CS student humor, women in tech, random music stuff | [@theekrystallee](https://www.tiktok.com/@theekrystallee)| [Insta](https://www.instagram.com/theekrystallee/) |
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
 <!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
 
