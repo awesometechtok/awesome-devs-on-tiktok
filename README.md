@@ -53,6 +53,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Shopify Devs | A community for all tech entrepreneurs & app developers | [@shopifydevs](https://www.tiktok.com/@shopifydevs) | [Twitter](https://twitter.com/ShopifyDevs) | 
 | Krystal | CS student humor, women in tech, random music stuff | [@theekrystallee](https://www.tiktok.com/@theekrystallee)| [Insta](https://www.instagram.com/theekrystallee/) |
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
+| Eddie   | Programming, PCs, tech, games, memes     | [@eddie_pcs](https://www.tiktok.com/@eddie_pcs)| [Discord](Mr. Chakin#7538) |
 <!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
 
 [⬆ Back to top](#contents)
