@@ -41,6 +41,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Andrew | Putting the fun in function     | [@creativedrewy](https://www.tiktok.com/@creativedrewy)     | [Twitter](https://twitter.com/creativedrewy)  |
 | Daisy   | Computers 💻 Tech ⌚️ Code     | [@daisymdev](https://www.tiktok.com/@daisymdev?lang=en)| [Insta](https://www.instagram.com/daisymdev/) |
 | Dilmer   | Extended Reality and coding !     | [@dilmerval](https://www.tiktok.com/@dilmerval)| [Twitter](https://www.twitter.com/dilmerv/) |
+| Eddie   | Programming, PCs, tech, games, memes     | [@eddie_pcs](https://www.tiktok.com/@eddie_pcs)| [Discord](Mr. Chakin#7538) |
 | Graham | Coding humor / learning to code / exploring tech | [@grahambillington](https://www.tiktok.com/@grahambillington) | [Twitter](https://twitter.com/GBillington7) |
 | Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
 | Henry   | Making Cool Stuff     | [@henryouang](https://www.tiktok.com/@henryouang)| [Insta](https://www.instagram.com/henryo84/) |
@@ -48,7 +49,6 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Jon   | Life, Coding, and more random stuff | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
 | Christian | Improve your code & humor | [@mrchristian17](https://www.tiktok.com/@mrchristian17) | [Insta](https://instagram.com/mrchristian17) |
-| Eddie   | Programming, PCs, tech, games, memes     | [@eddie_pcs](https://www.tiktok.com/@eddie_pcs)| [Discord](Mr. Chakin#7538) |
 | Emily   | Comedy, women in tech issues, tech career advice    | [@shmemmmy](https://www.tiktok.com/@shmemmmy)| [Twitter](https://twitter.com/EmilyKager) |
 | Phil   | Dev comedy, programming memes, sports | [@thephilstubbs](https://www.tiktok.com/@thephilstubbs)| [Twitter](https://twitter.com/iamPhilStubbs) |
 | Shopify Devs | A community for all tech entrepreneurs & app developers | [@shopifydevs](https://www.tiktok.com/@shopifydevs) | [Twitter](https://twitter.com/ShopifyDevs) | 
