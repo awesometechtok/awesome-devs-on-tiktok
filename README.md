@@ -41,6 +41,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Andrew | Putting the fun in function     | [@creativedrewy](https://www.tiktok.com/@creativedrewy)     | [Twitter](https://twitter.com/creativedrewy)  |
 | Daisy   | Computers 💻 Tech ⌚️ Code     | [@daisymdev](https://www.tiktok.com/@daisymdev?lang=en)| [Insta](https://www.instagram.com/daisymdev/) |
 | Dilmer   | Extended Reality and coding !     | [@dilmerval](https://www.tiktok.com/@dilmerval)| [Twitter](https://www.twitter.com/dilmerv/) |
+| Eddie   | Programming, PCs, tech, games, memes     | [@eddie_pcs](https://www.tiktok.com/@eddie_pcs)| [Discord](Mr. Chakin#7538) |
 | Graham | Coding humor / learning to code / exploring tech | [@grahambillington](https://www.tiktok.com/@grahambillington) | [Twitter](https://twitter.com/GBillington7) |
 | Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
 | Henry   | Making Cool Stuff     | [@henryouang](https://www.tiktok.com/@henryouang)| [Insta](https://www.instagram.com/henryo84/) |
