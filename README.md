@@ -42,6 +42,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Daisy   | Computers 💻 Tech ⌚️ Code     | [@daisymdev](https://www.tiktok.com/@daisymdev?lang=en)| [Insta](https://www.instagram.com/daisymdev/) |
 | Dilmer   | Extended Reality and coding !     | [@dilmerval](https://www.tiktok.com/@dilmerval)| [Twitter](https://www.twitter.com/dilmerv/) |
 | Eddie   | Programming, PCs, tech, games, memes     | [@eddie_pcs](https://www.tiktok.com/@eddie_pcs)| [Discord](Mr. Chakin#7538) |
+| Kendra Havens | Programming, positive vibes, dotnet   | [@gotheap](https://www.tiktok.com/@gotheap)  | [Twitter](https://twitter.com/gotheap)  |
 | Graham | Coding humor / learning to code / exploring tech | [@grahambillington](https://www.tiktok.com/@grahambillington) | [Twitter](https://twitter.com/GBillington7) |
 | Thaier   | All things tech and programming     | [@halaltech_](https://www.tiktok.com/@halaltech_)| [LinkedIn](https://www.linkedin.com/in/thaier-issa/) |
 | Hamza  | Random tech                          | [@hamzaelkhoudiri](https://www.tiktok.com/@hamzaelkhoudiri) | [Twitter](https://twitter.com/Hamza87337089)  |
