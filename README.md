@@ -50,6 +50,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Jon   | Life, Coding, and more random stuff | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
 | Christian | Improve your code & humor | [@mrchristian17](https://www.tiktok.com/@mrchristian17) | [Insta](https://instagram.com/mrchristian17) |
+| Scott Hanselman   | Welcoming new people to #codetok and tech    | [@shanselman](https://www.tiktok.com/@shanselman)| [Twitter](https://twitter.com/shanselman) |
 | Emily   | Comedy, women in tech issues, tech career advice    | [@shmemmmy](https://www.tiktok.com/@shmemmmy)| [Twitter](https://twitter.com/EmilyKager) |
 | Phil   | Dev comedy, programming memes, sports | [@thephilstubbs](https://www.tiktok.com/@thephilstubbs)| [Twitter](https://twitter.com/iamPhilStubbs) |
 | Shopify Devs | A community for all tech entrepreneurs & app developers | [@shopifydevs](https://www.tiktok.com/@shopifydevs) | [Twitter](https://twitter.com/ShopifyDevs) | 
