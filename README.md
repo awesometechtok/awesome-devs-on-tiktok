@@ -54,9 +54,9 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Christian | Improve your code & humor | [@mrchristian17](https://www.tiktok.com/@mrchristian17) | [Insta](https://instagram.com/mrchristian17) |
 | Scott Hanselman   | Welcoming new people to #codetok and tech    | [@shanselman](https://www.tiktok.com/@shanselman)| [Twitter](https://twitter.com/shanselman) |
 | Emily   | Comedy, women in tech issues, tech career advice    | [@shmemmmy](https://www.tiktok.com/@shmemmmy)| [Twitter](https://twitter.com/EmilyKager) |
+| Krystal Lee | CS Student Struggles, Programming Humor, Women in Tech | [@theekrystallee](https://www.tiktok.com/@theekrystallee)| [Twitter](https://twitter.com/theekrystallee) |
 | Phil   | Dev comedy, programming memes, sports | [@thephilstubbs](https://www.tiktok.com/@thephilstubbs)| [Twitter](https://twitter.com/iamPhilStubbs) |
 | Shopify Devs | A community for all tech entrepreneurs & app developers | [@shopifydevs](https://www.tiktok.com/@shopifydevs) | [Twitter](https://twitter.com/ShopifyDevs) | 
-| Krystal | CS student humor, women in tech, random music stuff | [@theekrystallee](https://www.tiktok.com/@theekrystallee)| [Insta](https://www.instagram.com/theekrystallee/) |
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
 | Tuomas   | Entrepreneurship, floof, dev, family, life, motors     | [@tuomassoinne](https://www.tiktok.com/@tuomassoinne)| [Insta](https://www.instagram.com/wingmanofmayhem/) |
 <!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
