@@ -60,7 +60,6 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
 | TomDoesTech   | JavaScript tips & memes     | [@tomdoestech](https://www.tiktok.com/@tomdoestech)| [Insta](https://www.instagram.com/tomdoestech/) |
 | Tuomas   | Entrepreneurship, floof, dev, family, life, motors     | [@tuomassoinne](https://www.tiktok.com/@tuomassoinne)| [Insta](https://www.instagram.com/wingmanofmayhem/) |
-
 <!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
 
 [⬆ Back to top](#contents)
