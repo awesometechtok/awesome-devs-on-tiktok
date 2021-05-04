@@ -58,7 +58,9 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Phil   | Dev comedy, programming memes, sports | [@thephilstubbs](https://www.tiktok.com/@thephilstubbs)| [Twitter](https://twitter.com/iamPhilStubbs) |
 | Shopify Devs | A community for all tech entrepreneurs & app developers | [@shopifydevs](https://www.tiktok.com/@shopifydevs) | [Twitter](https://twitter.com/ShopifyDevs) | 
 | Tim   | Life. Coding, construction, games     | [@timthetinyhomebuilder](https://www.tiktok.com/@timthetinyhomebuilder)| [Insta](https://www.instagram.com/t_alan_v/) |
+| TomDoesTech   | JavaScript, TypeScript tips & memes     | [@tomdoestech](https://www.tiktok.com/@tomdoestech)| [Insta](https://www.instagram.com/tomdoestech/) |
 | Tuomas   | Entrepreneurship, floof, dev, family, life, motors     | [@tuomassoinne](https://www.tiktok.com/@tuomassoinne)| [Insta](https://www.instagram.com/wingmanofmayhem/) |
+
 <!-- Don't forget to add yourself alphabetically by first letter of TikTok profile -->
 
 [⬆ Back to top](#contents)
