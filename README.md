@@ -49,6 +49,7 @@ Your name | Profile overview | [@yourprofile](https://www.tiktok.com/@yourprofil
 | Henry   | Making Cool Stuff     | [@henryouang](https://www.tiktok.com/@henryouang)| [Insta](https://www.instagram.com/henryo84/) |
 | John   | Coding. Advice. And memes. | [@johncodes](https://www.tiktok.com/@johncodes) | [Twitter](https://twitter.com/johncodezzz) |
 | Jon   | Life, Coding, and more random stuff | [@jonngan](https://www.tiktok.com/@jonngan) | [Insta](https://www.instagram.com/jongan69/) |
+| Bill   | Byte-sized dev tips, tricks, and laughs for you 🤡 | [@js_bits](https://www.tiktok.com/@js_bits) | [Twitter](https://twitter.com/JS_Bits_Bill) |
 | Justin | Infrastructure, cloud, dev, Disney | [@justinleegarrison](https://www.tiktok.com/@justinleegarrison) | [Twitter](https://twitter.com/rothgar) |
 | Matt   | Coding, tech, and productivity tips! | [@mattupham](https://link.mattupham.com/tiktok)             | [Twitter](https://link.mattupham.com/twitter) |
 | Christian | Improve your code & humor | [@mrchristian17](https://www.tiktok.com/@mrchristian17) | [Insta](https://instagram.com/mrchristian17) |
